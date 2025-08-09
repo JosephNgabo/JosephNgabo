@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @Joseph_Ngabo
 - 👀 I’m software development enthusiast 
-- 💞️ in love with programming
 - 📫 How to reach me 
 - whatsapp + call" +250789422314"
 - Email:ntwarijoseph2050@gmail.com
